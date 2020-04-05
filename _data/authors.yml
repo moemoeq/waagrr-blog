@@ -22,8 +22,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         jekyllrb
-    github:          qwtel/hydejack
+    # twitter:         jekyllrb
+    # github:          qwtel/hydejack
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -38,7 +38,7 @@ author1:
     # lastfm:          <username>
     # instagram:       <username>
     # flickr:          <string@string>
-    # 500px:           <username>
+    500px:           stoutcho21
     # dribbble:        <username>
     # behance:         <username>
     # deviantart:      <username>
